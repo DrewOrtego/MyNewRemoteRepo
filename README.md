@@ -1,0 +1,2 @@
+# MyNewRemoteRepo
+no thanks
